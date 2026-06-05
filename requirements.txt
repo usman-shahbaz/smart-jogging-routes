@@ -1,6 +1,6 @@
-folium==0.20.0
+folium
 geopy==2.4.1
-googlemaps==4.10.0
+googlemaps
 numpy
 pandas
 pytz
