@@ -1,5 +1,5 @@
 folium
-geopy==2.4.1
+geopy
 googlemaps
 numpy
 pandas
